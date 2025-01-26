@@ -1,0 +1,13 @@
+#Modulos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 98vh;
+    margin: 0;
+    padding: 0;
+}
+
+#Inventario, #Caja, #Ventas, #Usuarios{
+    border-radius: 10px;
+    box-shadow: 10px 7px #0f0;
+}

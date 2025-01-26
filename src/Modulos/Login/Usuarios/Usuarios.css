@@ -1,0 +1,17 @@
+#Usuarios{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    width: 22%;
+    text-align: center;
+    height: 40vh;
+    color: #eee;
+}
+#Usuarios h2{
+    font-size: 5rem;
+}
+
+#Usuarios h3{
+    font-size: 3rem;
+}

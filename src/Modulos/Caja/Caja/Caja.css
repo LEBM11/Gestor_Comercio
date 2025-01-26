@@ -1,0 +1,17 @@
+#Caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    width: 22%;
+    text-align: center;
+    height: 40vh;
+    color: #eee;
+}
+#Caja h2{
+    font-size: 5rem;
+}
+
+#Caja h3{
+    font-size: 3rem;
+}

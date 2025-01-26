@@ -1,0 +1,68 @@
+@charset "UTF-8";
+#Login {
+  width: 50%;
+  background-color: #000;
+  color: #fff;
+  margin: auto;
+  height: 70vh;
+  margin-top: 10%;
+  border-radius: 10px;
+}
+#Login h1 {
+  text-align: center;
+  font-weight: bold;
+  width: 100%;
+  display: block;
+  margin: auto;
+  border: 2px solid #fff;
+  height: 8rem;
+  line-height: 8rem;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  margin-bottom: 8%;
+}
+#Login label {
+  margin-left: 30%;
+  margin-top: 10px;
+  display: block;
+  position: relative;
+  top: 20px;
+  color: #000;
+}
+#Login input {
+  margin: 10px;
+  display: block;
+  width: 70%;
+  padding-top: 30px;
+  padding-left: 15%;
+  border-radius: 7px;
+  margin-bottom: 20px;
+  margin: auto;
+  box-sizing: border-box;
+}
+#Login input[type=checkbox] {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: -moz-min-content;
+  width: min-content;
+  margin-left: 29%;
+  position: relative;
+  top: px;
+}
+#Login #Contraseña + label {
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+#Login button {
+  width: 40%;
+  margin: auto;
+  padding: 8px;
+  border-radius: 7px;
+  display: block;
+  position: absolute;
+  bottom: 25%;
+  left: 50%;
+  transform: translateX(-50%);
+}/*# sourceMappingURL=Login.css.map */
